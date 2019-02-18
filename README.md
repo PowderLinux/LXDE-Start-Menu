@@ -1,7 +1,20 @@
 # LXDE-Start-Menu
 Start menu buttons for Lubuntu and other LXDE distros.
 
-Use these icons to add a 'Start' or 'Menu' button to your Lubuntu or other LXDE distro.
+Icons to use as a 'Start'/'Menu' button for Lubuntu/LXDE desktops.
+
+
+Info:
+
+There are 2 versions of each menu button -
+
+'lxde-start' = smaller font
+'lxde-menu' = smaller font
+'lxde-start-2' = larger font
+'lxde-menu-2' = larger font
+
+('lxde-start' is the icon used in the screenshots)
+
 
 To use:
 
@@ -13,5 +26,7 @@ Select 'Close' >
 Done! Enjoy your new eye candy.
 
 
-For theme info from the screenshots, see THEME-INFO.txt
+For info about the theme used in the screenshots, see THEME-INFO.txt
+
 Created by PowderLinux
+https://github.com/PowderLinux
