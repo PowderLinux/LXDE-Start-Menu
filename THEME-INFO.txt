@@ -1,0 +1,30 @@
+ Info about the theme used in the screenshots:
+
+Theme install -
+sudo apt install papirus-icon-theme
+sudo apt install numix-blue-gtk-theme
+
+Appearance -
+Widget: Breeze-Dark
+Color: (System Colors)
+Icons: ePapirus
+Mouse: DMZ-Black
+WindowBorder: NumixBlue
+
+Panel -
+Height: 30
+IconSize: 26
+Solid Color: #31363B (or System Theme)
+Opacity: 245
+Font: #EDECEB
+Clock: %I:%M %p
+
+Terminal-
+Font: Ubuntu Mono Regular
+Background: #000000
+Foreground: #3BA8E2
+
+
+ENJOY!
+Created by PowderLinux
+https://github.com/PowderLinux
