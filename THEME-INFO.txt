@@ -1,8 +1,10 @@
- Info about the theme used in the screenshots:
+Info about the theme used in the screenshots:
+(Lubuntu 18.04)
 
 Theme install -
 sudo apt install papirus-icon-theme
 sudo apt install numix-blue-gtk-theme
+sudo apt install breeze-gtk-theme
 
 Appearance -
 Widget: Breeze-Dark
@@ -19,10 +21,13 @@ Opacity: 245
 Font: #EDECEB
 Clock: %I:%M %p
 
-Terminal-
+Terminal -
 Font: Ubuntu Mono Regular
-Background: #000000
+Background: #232629	
 Foreground: #3BA8E2
+
+Wallpaper -
+https://github.com/pop-os/wallpapers/blob/master/original/kate-hazen-unleash-your-robot-blue.png
 
 
 ENJOY!
