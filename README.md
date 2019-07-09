@@ -22,6 +22,10 @@ Lxde button info -
 
 'lxde-menu-2' = larger font
 
+'menu-deb' = Menu/Debian logo
+
+'start-deb' = Start/Debian logo
+
 ('lxde-start' is the icon used in the screenshots)
 
 
