@@ -8,7 +8,11 @@ Add eye candy to your Lubuntu/LXDE desktops!
 
 Info:
 
-There are 2 versions of each menu button -
+There are 2 styles of buttons -
+
+LXDE themed & Debian themed.
+
+Lxde button info -
 
 'lxde-start' = smaller font
 
